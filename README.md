@@ -1,3 +1,5 @@
+This README will be updated with better instructions soon. For now, you can clone the repo using your SSH key, and follow the instructions below to make sure you have gatsby installed.
+
 # gatsby-starter-default
 The default Gatsby starter.
 

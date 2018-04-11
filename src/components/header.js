@@ -22,8 +22,8 @@ const Header = ({ siteTitle }) => (
             color: 'white',
             textDecoration: 'none',
           }}
-        >
-          {siteTitle}
+        > Beyond GA
+       
         </Link>
       </h1>
     </div>
