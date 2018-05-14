@@ -14,21 +14,26 @@ Beyond-GA uses the default Gatsby starter. For an overview of the project struct
 
 ## Install Gatsby 
 
-Make sure that you have the Gatsby CLI program installed:
+1. Navigate into the Beyond-Ga-Site folder. For all of these steps, make sure you are in the "beyond-ga-site" folder in your command line:
+```sh
+cd beyond-ga-site
+```
+
+2. Make sure that you have the Gatsby CLI program installed:
 ```sh
 npm install --global gatsby-cli
 ```
 
-And run from your CLI:
-```sh
-gatsby new gatsby-example-site
+3. Run npm install.
+```sh 
+npm install
 ```
 
-Then you can run it by:
-```sh
-cd gatsby-example-site
-npm run develop
+4. Now you can run the project locally on your computer! 
+```sh 
+gatsby develop
 ```
+
 
 ## Create Your Own Branch!
 
