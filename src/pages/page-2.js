@@ -5,7 +5,7 @@ const SecondPage = () => (
   <div>
     <h1>Second Blog Post</h1>
     <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <Link to="/home-page/">Go back to the homepage</Link>
   </div>
 )
 
